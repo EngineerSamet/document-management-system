@@ -11,7 +11,6 @@ Bu proje, kuruluşların belge yönetimi ve onay süreçlerini dijitalleştirmek
 - **Rol Tabanlı Erişim Kontrolü**: ADMIN, MANAGER, OFFICER ve OBSERVER rolleri
 - **PDF Oluşturma**: Dinamik form verilerinden PDF belgeleri oluşturma
 - **Aktivite İzleme**: Tüm kullanıcı eylemlerinin detaylı kaydı
-- **Bildirimler**: E-posta bildirimleri ve uygulama içi bildirimler
 
 ## Teknoloji Yığını
 
